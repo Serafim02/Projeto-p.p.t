@@ -1,0 +1,10 @@
+ul#JogadorEscolha li a:hover,
+ul#JogadorEscolha li a.selecionado,
+ul#ComputadorEscolha li a.selecionado{
+    opacity: 1;
+}
+
+ul#JogadorEscolha li a, 
+ul#ComputadorEscolha li a {
+    opacity: 0.2;
+}
